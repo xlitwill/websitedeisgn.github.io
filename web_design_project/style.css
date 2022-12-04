@@ -1,9 +1,94 @@
+
 .citation{
     font-size: .2em;
 }
 #Door1{
-    width: 30%;  
+    width: 50%;  
 }
 #peaceful_path{
-    width: 30%;
+    width: 80%;
+    border: 3px solid black;
+}
+.door1{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    border: 3px solid black;
+    background-color: beige;
+
+}
+.background {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.wakeup {
+    font-family: fantasy;
+    font-size: xx-large;
+    text-shadow: 0 0 10px #f80202;
+}
+.returnhome {
+    font-family: fantasy;
+}
+.hta {
+    font-size: larger;
+}
+.death {
+    width: 35%;
+}
+
+.story {
+    text-shadow: 0 0 10px #FFFFFF;
+}
+
+.bluedoor {
+    border: 3px solid black;
+    width: 40%;
+}
+
+.creepyhole {
+    border: 3px solid black;
+    width: 84.5%;
+}
+
+.pictureleft {
+    width: 50%;
+    float: left;
+}
+.pictureright {
+    width: 50%;
+    float: right;
+}
+.blueglass {
+    border: 3px solid black;
+    width: 70%;
+}    
+.redglass {
+    border: 3px solid black;
+    width: 45%;
+}    
+.light {
+    border: 3px solid black;
+    width: 100%;
+}    
+.winter {
+    border: 3px solid black;
+    width: 60%;
+}
+.door12 {
+    width: 40%;
+}
+.man {
+    width: 82%;
+}
+.rainbow {
+    border: 3px solid black;
+    width: 80%;
+}
+.rain {
+    text-align: center;
+    
+    border: 3px solid black;
+    background-color: beige;
 }
